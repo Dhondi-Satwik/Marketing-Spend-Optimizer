@@ -61,4 +61,3 @@ No additional channels are considered unless explicitly added in future versions
 - If ML outputs are unavailable or unreliable, the system defaults fully to rule-based decisions.
 - Rule-based decisions must always produce a valid weekly recommendation.
 
-
