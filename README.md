@@ -103,10 +103,10 @@ This ensures ML adds safety, not volatility.
 The system produces a file consumed directly by a Marketing Manager:
 
     week_start_date,channel,final_budget
-    2025-01-06,Google Ads,178000
-    2025-01-06,Email,142000
-    2025-01-06,Meta Ads,100000
-    2025-01-06,Affiliate,80000
+    2024-12-30,Affiliate,97718.98516418591
+    2024-12-30,Email,293861.4617606553
+    2024-12-30,Google Ads,59608.67690359523
+    2024-12-30,Meta Ads,48810.8761715635
 
 
 
